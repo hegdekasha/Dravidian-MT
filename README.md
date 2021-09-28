@@ -1,2 +1,2 @@
 # Dravidian-MT
-This file contains English-Tamil
+This file contains English-Telugu
